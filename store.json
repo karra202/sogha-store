@@ -1,0 +1,24 @@
+# sogha-store
+    {
+  "currency": "د.ع",
+  "remoteUrl": "https://karra202.github.io/sogha-store/store.json",
+  "imagesBaseUrl": "https://karra202.github.io/sogha-store/",
+  "ownerWhatsapp": "9647828720694",
+  "zainCashNumber": "07828720694",
+  "zainCashOwner": "كرار نجم",
+  "deliveryFee": 5000,
+  "gifts": [
+    { "id": 1, "name": "باقة ورد فاخرة", "price": 38000, "image": "flowers.jpg" },
+    { "id": 2, "name": "سلة أطعمة فاخرة", "price": 55000, "image": "basket.jpg" },
+    { "id": 3, "name": "محفظة جلدية", "price": 45000, "image": "wallet.jpg" },
+    { "id": 4, "name": "قسيمة سبا", "price": 75000, "image": "spa.jpg" },
+    { "id": 5, "name": "عطر فاخر", "price": 90000, "image": "perfume.jpg" },
+    { "id": 6, "name": "مجموعة تقنية", "price": 100000, "image": "tech.jpg" },
+    { "id": 7, "name": "ألبوم صور", "price": 30000, "image": "album.jpg" }
+  ],
+  "wrappings": [
+    { "id": 1, "name": "تغليف كلاسيكي", "emoji": "🎀", "price": 5000 },
+    { "id": 2, "name": "تغليف ذهبي فاخر", "emoji": "✨", "price": 10000 },
+    { "id": 3, "name": "صندوق فاخر مع ورد", "emoji": "🎁", "price": 20000 }
+  ]
+}
